@@ -1014,7 +1014,7 @@ SG CUBE is developed and maintained by its contributors.
 
 | Team Member       | Role                       | Main Contribution                              | GitHub                                               |
 | ----------------- | -------------------------- | ---------------------------------------------- | ---------------------------------------------------- |
-| **Krupa B T**     | ISE  student               | AI, vision, integration and system development | [@Krupa B T](https://github.com/krupabt/))           |
+| **Krupa B T**     | ISE  student               | AI, vision, integration and system development | [@Krupa B T] (https://github.com/krupabt/)           |
 | **Nivetha.S**     | ISE student                | Backend & Data Developer                       | [@Nivetha S]                                         |
 | **Mounitha D G**  | ISE student                | UI/UX & Integration Developer                  | [@Mounitha D G]                                      |
 | **Vandana T S**   | ISE student                | Testing & Deployment                           | [@Vandana T S]                                      |
