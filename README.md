@@ -1014,10 +1014,10 @@ SG CUBE is developed and maintained by its contributors.
 
 | Team Member       | Role                       | Main Contribution                              | GitHub                                               |
 | ----------------- | -------------------------- | ---------------------------------------------- | ---------------------------------------------------- |
-| **Sharath U R**   | AI/ML  student             | AI, vision, integration and system development | [@SharathUR](https://github.com/sharathgowdaur-jpg)  |
-| **Gajanand V D**   | AI/ML student              | Backend & Data Developer                       | [@Gajanand V D](https://github.com/gajanand27-05)   |
-| **Ganesh B**      | AI/ML student              | UI/UX & Integration Developer                  | [@Ganesh B](https://github.com/Ganu39)               |
-| **Gangadhara**    | AI/ML student              | Testing & Deployment                           | [@Gangadhara c](https://github.com/gangadharac)      |
+| **Krupa B T**     | ISE  student               | AI, vision, integration and system development | [@Krupa B T](https://github.com/krupabt/))           |
+| **Nivetha.S**     | ISE student                | Backend & Data Developer                       | [@Nivetha S]                                         |
+| **Mounitha D G**  | ISE student                | UI/UX & Integration Developer                  | [@Mounitha D G]                                      |
+| **Vandana T S**   | ISE student                | Testing & Deployment                           | [@Vandana T S]                                      |
 
 > 💡 Replace the placeholder team members with the actual contributors and their contributions.
 
