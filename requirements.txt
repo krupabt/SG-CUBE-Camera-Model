@@ -1,0 +1,12 @@
+# 1.9.0 added types.AudioTranscriptionConfig and 1.10.0 added client.aio.aclose(),
+# both used by the Live session in visionclaw_gui.py. Verified on 2.10.0.
+google-genai>=1.10.0
+opencv-python>=4.9.0
+sounddevice>=0.4.6
+numpy>=1.26.0
+python-dotenv>=1.0.0
+Pillow>=10.0.0
+SpeechRecognition>=3.10.0
+pystray>=0.19.5
+pywin32>=306; sys_platform == 'win32'
+pytest>=8.0.0

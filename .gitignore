@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.env.local
+.venv/
+venv/
+ENV/
+env/
+
+# Test and coverage artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+tests/first_run_test_data/
+tests/persistence_test_data/
+tests/standalone_backend_tmp/
+
+# Application user data and databases
+data/memory/*.db*
+data/history/*.db*
+data/face_memory/*/
+data/user_preferences/*.dat
+data/user_preferences/*.json
+data/logs/*.log
+*.db
+*.sqlite
+*.sqlite3
+*.log
+
+# Packaging and Build artifacts
+build/
+dist/
+*.egg-info/
+install/
+installer/
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
