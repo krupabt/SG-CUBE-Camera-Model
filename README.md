@@ -1258,18 +1258,6 @@ Full external rendering depends on the required standalone server/runtime infras
 
 ---
 
-# 👥 Team & Authors
-
-### 🚀 Founder & Project Lead
-* **Sharath Gowda U R** ([@sharathgowdaur-jpg](https://github.com/sharathgowdaur-jpg)) — Architecture, Vision AI, Deep Neural Face Engine, Full-Stack Engineering
-
-### 🤝 Contributors
-* **Gajanand V Dhayagode** ([@gajanand27-05](https://github.com/gajanand27-05)) — Security enhancements (Windows DPAPI hardware/account-bound credential encryption) and dependency requirements hardening
-
-Contributions, feature suggestions, and pull requests are welcome from the global open-source community!
-
----
-
 # 🙏 Acknowledgements
 
 SG CUBE builds upon open-source and public technologies including:
