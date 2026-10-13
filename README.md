@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧊 SG CUBE
+# 🧊 SG CUBE#
 
 ### *Next-Generation Multimodal AI Companion & Assistive Vision System*
 
