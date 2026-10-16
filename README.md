@@ -43,7 +43,7 @@ A real-time multimodal AI vision companion and assistive assistant designed prim
 
 ---
 
-# 🌌 Overview
+# 🌌 Overview ##
 
 **SG CUBE** is an intelligent, real-time multimodal AI vision companion and assistive assistant that combines **voice interaction, computer vision, multimodal AI, personal memory, environmental understanding, and local persistence** into a single system.
 
